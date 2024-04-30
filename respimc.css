@@ -1,0 +1,63 @@
+@media screen and (max-width:375px) {
+    .conteinerpai{
+
+        height: 494px;
+        width: 255px;
+
+    }
+
+
+    .conteiner{
+    
+        height: 490px;
+        width: 250px;
+    
+    }
+    
+    #btn{
+    
+    padding-top: 15px;
+    
+    }
+    
+    #botao{
+    
+        width: 100px;
+        height: 30px;
+        border:solid 3px rgb(2, 11, 66);
+        transition-duration: 0.5s;
+        background-color: rgb(2, 11, 66);
+        border-radius: 20px;
+        color: #ccc;
+        
+    }
+    #botao:hover{
+    
+    background-color: #ccc;
+    cursor: pointer;
+    color: rgb(2, 11, 66);
+    }
+    
+    input{
+    
+    height: 25px;
+    width: 200px;
+    
+    }
+    #resultado{
+    
+    padding-top: 2px;
+    
+    }
+    
+    }
+    @media screen and (max-height:640px) {
+    
+        img{
+    
+            height: 60px;
+            width: 60px;
+           
+        }
+    
+    }
